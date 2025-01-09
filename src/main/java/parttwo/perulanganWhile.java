@@ -21,7 +21,7 @@ public class perulanganWhile {
             if (!jawab.equalsIgnoreCase("yes")) {
                 ulangi = "0";
             }
-            System.out.println("Pengulangan ke-" + counter);
+        System.out.println("Pengulangan ke-" + counter);
 
         }
 }
